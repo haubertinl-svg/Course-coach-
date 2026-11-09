@@ -1,17 +1,24 @@
 {
   "name": "Course Coach",
   "short_name": "Course Coach",
-  "description": "Your Personal AI Running Coach",
+  "description": "Ton coach personnel de running",
   "lang": "fr",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/Course-coach-/",
+  "scope": "/Course-coach-/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#05070a",
   "theme_color": "#05070a",
   "icons": [
-    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "/Course-coach-/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Course-coach-/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
